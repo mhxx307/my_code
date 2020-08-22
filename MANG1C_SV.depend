@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598116830 source:c:\users\sonz\documents\laptrinh\mang1c_sv\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
